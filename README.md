@@ -1,2 +1,2 @@
 # projeto-inverter-string-em-Python
-projeto inverter string em Python para processo seletivo  de Target Systems
+programa que inverte uma string em Python para processo seletivo  de Target Systems
